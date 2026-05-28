@@ -6,8 +6,8 @@
 // @author       moka
 // @match        https://animemusicquiz.com/*
 // @grant        none
-// @downloadURL  https://github.com/tomomkarin/Scripts/raw/main/amqShowYoutubeLink.user.js
-// @updateURL    https://github.com/tomokarin/Scripts/raw/main/amqShowYoutubeLink.user.js
+// @downloadURL  https://github.com/tomokarin/amq-scripts/raw/main/amqShowYoutubeLink.user.js
+// @updateURL    https://github.com/tomokarin/amq-scripts/raw/main/amqShowYoutubeLink.user.js
 // ==/UserScript==
 
 "use strict";

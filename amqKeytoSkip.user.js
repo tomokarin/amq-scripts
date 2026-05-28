@@ -3,8 +3,8 @@
 // @version      0.2
 // @description  Use "`" key to active skip.
 // @author       tomokarin
-// @updateURL    https://github.com/tomokarin/Scripts/raw/main/amqKeytoSkip.user.js
-// @downloadURL  https://github.com/tomokarin/Scripts/raw/main/amqKeytoSkip.user.js
+// @updateURL    https://github.com/tomokarin/amq-scripts/raw/main/amqKeytoSkip.user.js
+// @downloadURL  https://github.com/tomokarin/amq-scripts/raw/main/amqKeytoSkip.user.js
 // @match        https://animemusicquiz.com/*
 // ==/UserScript==
 

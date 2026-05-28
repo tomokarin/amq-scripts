@@ -5,7 +5,7 @@
 // @author       you
 // @match        https://animemusicquiz.com/*
 // @grant        none
-// @updateURL    https://github.com/tomokarin/Scripts/raw/main/amqAnswerTimeDisplay.user.js
+// @updateURL    https://github.com/tomokarin/amq-scripts/raw/main/amqAnswerTimeDisplay.user.js
 // ==/UserScript==
 
 // don't load on login page
