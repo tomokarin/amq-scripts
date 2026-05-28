@@ -1,0 +1,22 @@
+# OS specific files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+.LSOverride
+Icon?
+._*
+$RECYCLE.BIN/
+System Volume Information/
+desktop.ini
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables / Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
