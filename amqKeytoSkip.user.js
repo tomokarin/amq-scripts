@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         AMQ key to skip quiz
-// @version      0.2
+// @name         AMQ Key to Skip Quiz
+// @version      0.3
 // @description  Use "`" key to active skip.
 // @author       tomokarin
 // @updateURL    https://github.com/tomokarin/amq-scripts/raw/main/amqKeytoSkip.user.js

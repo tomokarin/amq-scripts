@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Show Youtube Link
+// @name         AMQ Show Youtube Link
 // @namespace    https://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Adds a YouTube search link at the bottom of SongInfo box.
 // @author       moka
 // @match        https://animemusicquiz.com/*
